@@ -1,3 +1,3 @@
-# pyhon--demo
+# python - demo
 python code
 JAVA (c++)
