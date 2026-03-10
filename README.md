@@ -1,10 +1,10 @@
-# Notes App Mockup
+# Sai's Notepad
 
-A simple personal Notes app interface built as a single responsive HTML file with inline CSS.
+A simple personal notepad interface built as a single responsive HTML file with inline CSS.
 
 ## Overview
 
-This project is a frontend-only mockup inspired by Apple's clean and minimal design style. It includes:
+This project is a frontend-only mockup inspired by Apple's clean and minimal design style. The page header now features the title `Sai's Notepad`, and the layout includes:
 
 - A top header with the app title, search field, and profile avatar
 - A folders sidebar with a "New Note" button
@@ -29,7 +29,7 @@ No JavaScript, frameworks, libraries, Bootstrap, or Tailwind are used.
 
 ## File Structure
 
-- `index.html` - complete Notes app UI in one file
+- `index.html` - complete Sai's Notepad UI in one file
 
 ## How to Use
 
