@@ -1,9 +1,7 @@
 # python - demo
 python code
 JAVA (c++)
-kkk
-node.js123
 
-## New branch here 
+### Old branch deleted
 
 Hello world
